@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello! 👋
+
+I don't know how or why you got to this page, but thanks for coming I guess.    
+Here you will find a bunch of half-started projects, most likely never to be finished.    
+Occasionally active, usually in short bursts.    
+
+#### 📫 If for some strange reason you would like to contact me, [email](mailto:rohanmodil123@gmail.com) me.
 
 <!--
 **rohanmodil123/rohanmodil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
